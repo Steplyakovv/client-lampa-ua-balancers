@@ -1,0 +1,1 @@
+https://cdn.jsdelivr.net/gh/Steplyakovv/client-lampa-ua-balancers@main/ua_balancers.js
