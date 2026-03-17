@@ -2,8 +2,8 @@
     'use strict';
 
     const PLUGIN_ID = 'tmdb_stream';
-    //const DEFAULT_BACKEND = 'https://localhost:7224';
-    const DEFAULT_BACKEND = 'https://lampa-ua-balancers.onrender.com'
+    const DEFAULT_BACKEND = 'https://localhost:7224';
+    // const DEFAULT_BACKEND = 'https://lampa-ua-balancers.onrender.com'
 
     const CONFIG = {
         apiBase: DEFAULT_BACKEND,
