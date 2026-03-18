@@ -305,8 +305,6 @@
 
             return;
         }
-		
-		debugger
 
         const finalUrl = streamUrl.includes('.m3u8')
             ? getProxyUrl(streamUrl)
